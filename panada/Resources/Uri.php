@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Handler for request and mapped into, controller, metohd and requests.
+ * Handler for request and mapped into, controller, method and requests.
  *
  * @author	Iskandar Soesman <k4ndar@yahoo.com>
  *
@@ -23,7 +23,7 @@ final class Uri
     /**
      * Class constructor.
      *
-     * Difine the SAPI mode, cli or web/http
+     * Define the SAPI mode, cli or web/http
      */
     public function __construct()
     {
